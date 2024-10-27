@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test-heartup/static/css/main.b4be51d0.css",
+    "main.js": "/test-heartup/static/js/main.a7dcac44.js",
+    "index.html": "/test-heartup/index.html",
+    "main.b4be51d0.css.map": "/test-heartup/static/css/main.b4be51d0.css.map",
+    "main.a7dcac44.js.map": "/test-heartup/static/js/main.a7dcac44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4be51d0.css",
+    "static/js/main.a7dcac44.js"
+  ]
+}
